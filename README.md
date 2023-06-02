@@ -1,5 +1,5 @@
 # BLE-RC-Car-ESP32
-Alternative Hawdware controller for BLE car models released by Shell
+Alternative Hawdware controller for Bluetooth remote controlled car models released by Shell
 
 # Hardware replacement for stupid bloatware mobile app
 The apps that come with the car are full of pointless and features that just drain the battery unnecessarily. It's also likely that sooner or later these apps will run out of support and the car will be useless without it. So I made a simple hardware driver based on ESP32
